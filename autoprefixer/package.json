@@ -12,6 +12,5 @@
   "devDependencies": {
     "autoprefixer": "^9.8.6",
     "postcss-cli": "^7.1.2"
-  },
-  "browserslist": ["chrome>8","ios>9","Android>6"]
+  }
 }

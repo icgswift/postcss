@@ -5,3 +5,4 @@
 
 # 配置autoprefixer
   1.package.json配置  添加browserslist字段  "browserslist": ["chrome>8","ios>9","Android>6"]
+  2.配置.browserslistrc文件 (在不同的前端工具之间共用目标浏览器/node版本的配置工具) npx browserslist 查看筛选出的浏览器版本
